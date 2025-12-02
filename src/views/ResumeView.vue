@@ -19,7 +19,7 @@
             <section>
                 <div>
                     <div class="md:grid-cols-3 md:gap-3 xl:grid-cols-3 xl:gap-3 2xl:gap-5 fade-zoom-in">
-                        <iframe style="width: 100%; height: 1000px;" src="/files/Modern_Simple_ATS_Friendly_LateX_CV.pdf"></iframe>
+                        <iframe style="width: 100%; height: 1000px;" src="/files/Jingwen_Dou_Resume.pdf"></iframe>
                     </div>
                 </div>
             </section>
