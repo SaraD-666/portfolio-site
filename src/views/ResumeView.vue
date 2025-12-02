@@ -1,10 +1,8 @@
 <script>
-import myResume from '../files/Jingwen_Dou_Resume.pdf'
-
 export default {
     data() {
         return {
-            resumeUrl: myResume
+            resumeUrl: 'files/Jingwen_Dou_Resume.pdf'
         }
     }
 }
@@ -22,7 +20,6 @@ export default {
 
             <section>
                 <div class="md:grid-cols-3 md:gap-3 xl:grid-cols-3 xl:gap-3 2xl:gap-5 fade-zoom-in">
-                    <!-- Use imported PDF URL -->
                     <iframe
                         :src="resumeUrl"
                         style="width: 100%; height: 1000px;"
