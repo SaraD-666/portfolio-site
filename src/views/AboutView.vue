@@ -14,17 +14,18 @@
 						<div class="mb-2 md:mb-5 fadein-left fadeins-1">
 							<p class="mb-4">
 								<span class="bg-clip-text bg-gradient-to-l from-slate-100 to-amber-300 text-transparent">
-									Hello I'm Sara, I'm an undergraduate student studying game design at NYU. I'm passionate about developing games that bring joy and are aesthetically pleasing. I've been coding for 6 years, since entering high school. I am proficient with Unity, Unreal Engine 5, Gamemaker Studio 2, and Godot. I also have experience in game design, level design, and system design for a couple of personal and game jam projects.
+									Hello! I'm Sara Dou — a game designer, researcher, and the founder of <strong>SnapDrama</strong>, a new vertical short-drama platform exploring the future of mobile storytelling in the U.S. market. I’m currently studying Game Design & Computer Science at NYU, where I build games that inspire connection, playfulness, and emotional warmth.
 								</span>
 							</p>
 							<p class="mb-4">
 								<span class="bg-clip-text bg-gradient-to-l from-slate-100 to-amber-300 text-transparent">
-									In terms of programming, I am proficient in C/C++, Java, and Python (for machine learning). I've published two research papers with my team regarding EEG and data cleaning at two conferences: HCII and KDD. Currently, I'm working on research connecting EEG data to racing games.
+									My work spans both creative design and technical research. I develop games in Unity, Unreal Engine 5, and Godot, and I specialize in level design, narrative systems, and player experience. On the research side, I’ve published two papers on EEG signal processing at HCII and KDD, and I’m currently leading <strong>MindX</strong>, an EEG-controlled gaming system exploring real-time brain–computer interaction for more accessible and imaginative play.
 								</span>
 							</p>
 							<p class="mb-4">
 								<span class="bg-clip-text bg-gradient-to-l from-slate-100 to-amber-300 text-transparent">
-									Play my games! 
+									When I'm not building startups or running experiments, I'm creating games — from emotional RPGs to experimental mechanics.  
+									<br>Play my games:
 									<a 
 										href="https://sarad666.itch.io/" 
 										target="_blank" 
